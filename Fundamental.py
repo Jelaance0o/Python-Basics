@@ -10,7 +10,7 @@ print(name , age)
 user = ["hi","hello","namaskar"]
 print(user[1])
 
-# object
+# dictionaries
 
 user = {
     "name": "Jeelance",
